@@ -1,0 +1,52 @@
+body{
+    background: #93c5ff;
+}
+
+.buscador input{
+    background: #e5f0ff;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+
+.buscador button{
+    border: 0px;
+    color: white;
+    background: #192b7a;
+    border-radius: 5px;
+    padding: 6px 9px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.buscador, .container{
+    margin: auto;
+    max-width: 640px;
+}
+.buscador{
+    text-align: center;
+    background: #e5f0ff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.container{
+    margin-top: 10px;
+    text-align: center;
+    background: #e5f0ff;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+#logo{
+    margin: 10px;
+    text-align: center;
+}
+
+pre{
+    text-align: left;
+    white-space: pre-wrap;
+    font-family: Roboto;
+}
+
